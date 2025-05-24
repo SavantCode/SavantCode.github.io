@@ -2,13 +2,13 @@
 
 ## About Me
 
-I'm a passionate full-stack developer, actively building real-world projects and participating in hackathons. I was the **Runner-Up at HackCrux 3.0**, held at LNMIIT Jaipur. I'm constantly learning and improving my skills—currently focused on **Data Structures & Algorithms** alongside modern full-stack development.
+I'm a passionate full-stack developer, actively building real-world projects and participating in hackathons. I was the **Runner-Up at HackCrux 3.0**, held at LNMIIT Jaipur. I’m constantly learning and improving my skills—currently focused on **Data Structures & Algorithms (DSA)** alongside full-stack development.
 
-* 🔭 I’m currently working on **Next.js**, **React**, and **Node.js** projects.
-* 🌱 I’m currently learning **DSA**.
-* 👯 I’m looking to collaborate on **open-source projects**.
-* 💬 Ask me about **full-stack development**, **web architecture**, or **hackathon building**.
-* 📫 How to reach me: [rahul.kushwaha.official@gmail.com](mailto:rahul.kushwaha.official@gmail.com)
+* 🔭 I’m currently working on **Next.js**, **React**, and **Node.js** projects
+* 🌱 I’m currently learning **DSA**
+* 👯 I’m looking to collaborate on **open-source projects**
+* 💬 Ask me about **full-stack development**, **web architecture**, or **hackathon building**
+* 📫 **Feel free to contact me:** [rahulkcoding2023@gmail.com](mailto:rahulkcoding2023@gmail.com)
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +27,7 @@ I'm a passionate full-stack developer, actively building real-world projects and
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
 
@@ -48,37 +48,37 @@ I'm a passionate full-stack developer, actively building real-world projects and
 
 ## 📈 GitHub Stats
 
-![SavantCode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavantCode\&theme=tokyonight\&show_icons=true\&hide_border=true\&count_private=true)
-![SavantCode's GitHub Streak](https://streak-stats.demolab.com/?user=SavantCode\&theme=tokyonight\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SavantCode\&layout=compact\&theme=tokyonight\&hide_border=true)
-![Profile Views](https://komarev.com/ghpvc/?username=SavantCode\&color=brightgreen)
+![SavantCode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavantCode&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
+![SavantCode's GitHub Streak](https://streak-stats.demolab.com/?user=SavantCode&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SavantCode&layout=compact&theme=tokyonight&hide_border=true)  
+![Profile Views](https://komarev.com/ghpvc/?username=SavantCode&color=brightgreen)
 
 ## 🚀 Projects
 
 ### [Socialy](https://socialy-next-js.vercel.app/)
 
-* **Description**: A modern, Twitter-like social media UI with clean layout and real-time features.
+* **Description**: A modern, Twitter-like social media UI with clean layout and real-time features  
 * **Tech Stack**: Next.js, TypeScript, Tailwind CSS
 
 ### [Chatty (Fullstack Chat App)](https://fullstack-chat-appp.onrender.com/)
 
-* **Description**: Real-time chat application with authentication and responsive design.
+* **Description**: Real-time chat application with authentication and responsive design  
 * **Tech Stack**: Node.js, React, Express, Socket.IO, MongoDB
 
 ### [EvoGym](https://evogym-typescript-wine.vercel.app/)
 
-* **Description**: A sleek, gym-focused landing site built with modern frontend stack.
+* **Description**: A sleek, gym-focused landing site built with modern frontend stack  
 * **Tech Stack**: Next.js, TypeScript, Tailwind CSS
 
 ### [Drankit (Doctor’s Clinic Website)](https://drankit.vercel.app/)
 
-* **Description**: Informational website for a clinic with appointment feature and clean UI.
-* **Tech Stack**: HTML, CSS, JavaScript
+* **Description**: Informational website for a clinic featuring an appointment system and a clean, modern UI. The doctor’s dashboard allows doctors to view the list of patients for the day and mark their status efficiently  
+* **Tech Stack**: Next.js, ShadCN UI, and Next.js framework for backend development
 
 ### [Advocate Portfolio](https://advocate-portfolio-eight.vercel.app/)
 
-* **Description**: Personal portfolio site for an advocate.
-* **Tech Stack**: HTML, CSS, JavaScript
+* **Description**: A personal portfolio website for an advocate, designed with a clean and modern interface. It includes seamless scheduling functionality through Calendly integration to facilitate easy appointment booking  
+* **Tech Stack**: React.js, Tailwind CSS, JavaScript, Calendly API
 
 ## 📫 Connect with Me
 
